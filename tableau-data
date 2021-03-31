@@ -4,7 +4,18 @@
 
 A big part of the work that Data Scientists and Data Analysis do is to communicate about data, and creating professional interactive visualizations is central to that task. There are a variety of Interactive Data Visualization tools out there, including Tableau, Looker, Microsoft Power BI, and Google Data Studio among many others. We are going to focus on Tableau because it is constistently ranked as the most popular and powerful in its class. 
 
+This **lesson** will show how to load a dataset into Tableau and transform it so you can work with it. We are working with a dataset about Major League Soccer Salaries. This data is published as pdf files by the [Major League Soccer Players Union](https://mlsplayers.org/resources/salary-guide) and parsed by Jeremy Singer-Vine, curator of the popular newsletter, [Data is Plural](https://www.data-is-plural.com/). 
+
+We have combined these files into one master file **here** HOW DO I EMBED FILES? So we can work with 2007-2017 data all at once.
+
+### Install Tableau
+
+There are multiple versions of Tableau. We recommend getting started with [Tableau Public](https://public.tableau.com/s/). Tableau Public is free and has all the features you need to create amazing visualizations. Tableau Desktop requires purchasing a license to use it. The major difference is that Tableau Desktop allows you to save work locally and connect to a lot of different datasources. Since we will only work with csv's and Excel files, Tableau Public has everything we need. Don't be confused by the fact that Tableau Public is a Desktop app. When you open Tableau Public, you should see 'Tableau Public - Book 1' in the header. 
+
+
 ### Loading Data
+
+Start by downloading the csv file and loading it into Tableau. When you open Tableau Public. 
 
 ### Exploratory Visualizations
 
